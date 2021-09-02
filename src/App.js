@@ -8,8 +8,8 @@ function App() {
     <div className="App">
       <header>
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Mitsos Kalimera :-)</h1>
-        <h2>We now have Auth!</h2>
+        <h1>Kalispera to the Poker Group :-)</h1>
+        <h2>Memo makes love to Pete</h2>
       </header>
       <AmplifySignOut />
     </div>
